@@ -2,6 +2,8 @@
 
 A machine learning-based web application designed to identify and classify fake news articles using Natural Language Processing (NLP) techniques and predictive models. This project helps users verify whether a news article is real or fake through intelligent text analysis.
 
+---
+
 ## 📌 Project Overview
 
 The Fake News Detection System analyzes news content and predicts its authenticity using machine learning algorithms trained on labeled datasets.
@@ -12,6 +14,8 @@ The system processes textual information, extracts important features, and class
 * ❌ Fake News
 
 This project demonstrates the practical implementation of NLP and machine learning in solving real-world misinformation problems.
+
+---
 
 ## 🚀 Features
 
@@ -24,6 +28,8 @@ This project demonstrates the practical implementation of NLP and machine learni
 * 🧹 Text cleaning and tokenization
 * 🔍 Real-time news verification support
 
+---
+
 ## 🛠 Technologies Used
 
 * Python
@@ -35,6 +41,8 @@ This project demonstrates the practical implementation of NLP and machine learni
 * Scikit-learn
 * HTML/CSS
 * Git & GitHub
+
+---
 
 ## 📂 Project Structure
 
@@ -50,6 +58,8 @@ Fake-News-Detection/
 └── README.md
 ```
 
+---
+
 ## 🧠 Machine Learning Workflow
 
 1. Data Collection
@@ -59,6 +69,8 @@ Fake-News-Detection/
 5. Model Training
 6. Prediction & Classification
 7. Result Visualization
+
+---
 
 ## 🚀 How to Run the Project
 
@@ -92,6 +104,8 @@ python app.py
 http://127.0.0.1:5000
 ```
 
+---
+
 ## 📊 Model Capabilities
 
 * Detects misleading news patterns
@@ -100,9 +114,20 @@ http://127.0.0.1:5000
 * Provides quick classification results
 * Improves information reliability
 
+---
+
+## 📸 Screenshots
+
+<img width="1355" height="685" alt="output1" src="https://github.com/user-attachments/assets/1203d1e4-e837-49d3-a5e5-a66418aaa07a" />
+
+
+---
+
 ## 🎯 Project Goal
 
 The main objective of this project is to combat misinformation and improve digital news reliability by using artificial intelligence and machine learning techniques.
+
+---
 
 ## 🔮 Future Improvements
 
@@ -113,9 +138,13 @@ The main objective of this project is to combat misinformation and improve digit
 * AI-powered fact checking
 * Advanced accuracy optimization
 
+---
+
 ## 👩‍💻 Developer
 
 **Vinisha M**
+
+---
 
 ## ⭐ Support
 
