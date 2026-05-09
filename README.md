@@ -119,6 +119,8 @@ http://127.0.0.1:5000
 ## 📸 Screenshots
 
 <img width="1355" height="685" alt="output1" src="https://github.com/user-attachments/assets/1203d1e4-e837-49d3-a5e5-a66418aaa07a" />
+<img width="1365" height="681" alt="output2" src="https://github.com/user-attachments/assets/f4a6caf7-2c84-4a9c-8827-3c00cbe22adc" />
+<img width="1365" height="678" alt="output3" src="https://github.com/user-attachments/assets/cf957e5c-5a94-4498-8922-ac37292cbbc3" />
 
 
 ---
